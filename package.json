@@ -1,0 +1,28 @@
+{
+  "name": "tania_rasca_react_tutorial_bare",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rajsandhu/tania_rasca_react_tutorial_bare.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rajsandhu/tania_rasca_react_tutorial_bare/issues"
+  },
+  "homepage": "https://github.com/rajsandhu/tania_rasca_react_tutorial_bare#readme",
+  "dependencies": {
+    "react": "^16.10.1",
+    "react-dom": "^16.10.1"
+"react-scripts": "^2.1.5"
+  }
+}
